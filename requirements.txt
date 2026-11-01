@@ -1,0 +1,17 @@
+# Dashboard
+streamlit>=1.38,<2.0
+pandas>=2.0,<3.0
+plotly>=5.20,<7.0
+# Notebook execution
+jupyter>=1.0
+nbconvert>=7.14
+ipykernel>=6.29
+matplotlib>=3.8,<4.0
+# Existing notebook pipeline
+requests>=2.31
+feedparser>=6.0
+beautifulsoup4>=4.12
+python-dateutil>=2.9
+rapidfuzz>=3.6
+openpyxl>=3.1
+tqdm>=4.66

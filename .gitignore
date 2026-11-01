@@ -1,0 +1,17 @@
+# Logs
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment and sensitive files
+.env
+config.local.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+.venv/
